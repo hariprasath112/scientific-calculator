@@ -1,4 +1,4 @@
-# Scientific Calulator in C Language
+# Scientific Calculator in C Language
 
 The calulator has built-in functions (upto 9) from math.h header file. It can perform operations using 16 byte integers as it uses "long double" data type.
 
